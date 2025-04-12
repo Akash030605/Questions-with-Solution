@@ -3,3 +3,19 @@ Description ->   Sometimes we need to Jump Back and Forth
 link -> https://github.com/Akash030605/Questions/blob/main/JumpingJACK_HINT
 
 Answer -> TAGx_{WelCoMe_4_hiD8}
+
+Solution ->
+To_Base32('A-Z2-7=')
+To_Base64('A-Za-z0-9+/=')
+To_Base32('A-Z2-7=')
+To_Base64('A-Za-z0-9+/=')
+To_Base32('A-Z2-7=')
+To_Base64('A-Za-z0-9+/=')
+To_Base32('A-Z2-7=')
+To_Base64('A-Za-z0-9+/=')
+To_Base32('A-Z2-7=')
+To_Base64('A-Za-z0-9+/=')
+To_Base32('A-Z2-7=')
+To_Base92()
+
+From Down to Up ^
